@@ -1,0 +1,7 @@
+<launch>
+  <node name="yolov5ssort_node" pkg="yolov5ssort" type="yolov5ssort" output="screen" >
+    <param name="calibrate_file"  value="$(find yolov5ssort)/calibrate_file.yml" />
+    <param name="detect_model"  value="$(find yolov5ssort)/yolov5s.engine" />
+    <param name="track_model"  value="$(find yolov5ssort)/deepsort.engine" />
+  </node>
+</launch>

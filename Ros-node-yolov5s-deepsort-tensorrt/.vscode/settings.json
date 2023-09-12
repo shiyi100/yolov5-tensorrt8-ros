@@ -1,0 +1,46 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "filesystem": "cpp",
+        "ios": "cpp",
+        "iterator": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "iosfwd": "cpp",
+        "core": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.ipp": "cpp",
+        "bitset": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "utility": "cpp",
+        "geometry": "cpp",
+        "functional": "cpp",
+        "random": "cpp",
+        "cstring": "cpp",
+        "*.txx": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
